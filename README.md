@@ -1,1 +1,1 @@
-# Management-theory
+# Management_theory
